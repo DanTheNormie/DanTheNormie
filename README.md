@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Software Dev from Chennai</h3>
 
-- 🌱 I’m currently learning **FullStack Web Development**
+- 🚀 Currently building Full-Stack Web Applications with Next.js, crafting dynamic and performant user experiences!
 
 <h3 align="left">Languages used :</h3>
 
